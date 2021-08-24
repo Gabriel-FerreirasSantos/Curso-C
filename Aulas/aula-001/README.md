@@ -9,6 +9,15 @@
     
 <br>
 
+* ### Nessa aula:
+    * #### Sobre bibliotecas.
+    * #### Váriaveis.
+    * #### Tipos de váriaveis.
+    * #### E algunss códigos.
+
+
+    <br>
+
 ### Partes
 
 - [x] Primeira parte
