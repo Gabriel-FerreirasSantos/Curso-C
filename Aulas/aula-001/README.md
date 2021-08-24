@@ -13,7 +13,7 @@
     * #### Sobre bibliotecas.
     * #### Váriaveis.
     * #### Tipos de váriaveis.
-    * #### E algunss códigos.
+    * #### E alguns códigos.
 
 
     <br>
@@ -21,9 +21,10 @@
 ### Partes
 
 - [x] Primeira parte
-- [ ] Segunda parte
-- [ ] Terceira parte
-
-    <br>
+- [x] Segunda parte
+- [x] Terceira parte
+#### Aula finalizada
+    
+<br>
 
 ### Isso é só espero que gostem    
