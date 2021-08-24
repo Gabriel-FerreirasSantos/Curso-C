@@ -1,6 +1,6 @@
 ### hello people👋
 
-# 1 aula de C 
+# 2 aula de C 
 
 ###  Ferramentas usadas 📓
   
@@ -11,7 +11,7 @@
 <br>
 
 * ### Nessa aula:
-    * #### Sobre bibliotecas.
+    * #### Operações Matematica.
     * #### Váriaveis.
     * #### Tipos de váriaveis.
     * #### E alguns códigos.
