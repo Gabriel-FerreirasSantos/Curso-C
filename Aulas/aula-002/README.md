@@ -12,9 +12,7 @@
 
 * ### Nessa aula:
     * #### Operações Matematica.
-    * #### Váriaveis.
-    * #### Tipos de váriaveis.
-    * #### E alguns códigos.
+
 
 
     <br>
