@@ -1,6 +1,6 @@
 ### hello people👋
 
-# 2 aula de C 
+# 3 treino de C 
 
 ###  Ferramentas usadas 📓
   
@@ -22,7 +22,7 @@
 - [x] Primeira parte
 - [x] Segunda parte
 - [x] Terceira parte
-#### Aula finalizada
+#### treino finalizado
     
 <br>
 
