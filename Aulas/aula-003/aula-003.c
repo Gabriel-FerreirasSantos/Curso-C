@@ -9,27 +9,30 @@ void main(){
 	//Permite usar acentos
 	setlocale(LC_ALL,"");
 	
-	//Definindo variaveis
-	int a = 6, b = 3;
+	//definindo Variáveis
+	int a = 5;
+	int b = 18;
+	//Condicional Simples
+	if(a == 5){
+		printf("A variavel a = 5 ");
+	}
 	
-	//adição
-	printf("\n A adição de %d e %d é igual a = %d",a , b, a + b);
+	//numero par ou impar
+	if(a % 2 == 1){
+		printf("\n A variavel a e impar");
+	}else{
+		printf("\n A variavel a e par");
+	}
 	
-	//Subtração
-	printf("\n A Subtração de %d e %d é igual a = %d",a , b, a - b);
-	
-	//divisão
-	printf("\n A divisão de %d e %d é igual a = %d",a , b, a / b);
-	
-	//Multiplicação
-	printf("\n A Multiplicação de %d e %d é igual a = %d",a , b, a * b);
-	
-	//Valor absoluto
-	printf("\n O valor absoluto de -3 = %d", abs(-3));
-	
-	//Resto da divisão
-	printf("\n o resto da divisão entre %d e %d é igual a = %d",a , b, a % b);
-	
+	//condicional composta
+	if(b == 17){
+		printf("\n Você pode se preparar para tirar a carteira");
+	}else if(b >= 18){
+		printf("\n Você ja pode tirar a carteira");
+	}else if(b <= 16){
+		printf("\n Você é muito novo ainda");
+	}
+
 	//Pausa o programa apos a execução
 	system("pause");
 }
